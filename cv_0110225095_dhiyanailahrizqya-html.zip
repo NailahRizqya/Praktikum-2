@@ -59,8 +59,11 @@
   </style>
 </head>
 <body>
-  <div class="container">
-    <img src="https://drive.google.com/uc?export=view&id=162Xsg05cLe1TyG5La6zrxUeV0Jh1Kl1j" alt="Foto Profil Dhiya">
+  <<div class="foto">
+    <a href="https://ibb.co.com/mrHfjKrp" target="_blank">
+      <img src="https://i.ibb.co.com/gbDk28bY/d5e5f31c-64c7-4f51-b7a4-e05dcda67e9a.jpg" alt="Foto Dhiya Nailah Rizqya">
+    </a>
+  </div>
     <h1>CV</h1>
     <p><strong>Nama:</strong> Dhiya Nailah Rizqya</p>
     <p><strong>Tempat, Tanggal Lahir:</strong> Depok, 22 Oktober 2006</p>
